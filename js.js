@@ -18,7 +18,7 @@ yearEl.textContent = currentYear;
 
 
 
-const allLinks = document.querySelectorAll("a:link");
+
 
 const allLinks = document.querySelectorAll("a:link");
 
